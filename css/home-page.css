@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Colfax-Medium";
+    src: url("/fonts/Colfax-Medium.woff") format('woff');
+}
 html {
   background-image: url("/images/background.png");
   background-color: #3A3F44;
