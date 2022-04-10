@@ -6,3 +6,11 @@ html {
   background-image: url("/images/background.png");
   background-color: #3A3F44;
 }
+p {
+  font-family: Colfax-Medium;
+  color: white;
+}
+h1 {
+  font-family: Colfax-Medium;
+  color: white;
+}
